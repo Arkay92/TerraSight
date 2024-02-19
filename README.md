@@ -20,7 +20,7 @@ git clone https://github.com/<your-username>/SatelliteVisionCNN.git
 
 2. Navigate to the project directory:
 ```
-cd SatelliteVisionCNN
+cd TerraSight
 ```
 
 3. Install the required packages:
@@ -35,7 +35,7 @@ python main.py
 ```
 
 ## Contributing
-Contributions to SatelliteVisionCNN are welcome! 
+Contributions to TerraSight are welcome! 
 
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
